@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "%x\n" $DiECIMAL
+printf "%x\n" $DiECIMAL
